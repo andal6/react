@@ -1,0 +1,11 @@
+{
+  "name": "parcel",
+  "version": "1.0.0",
+  "description": "namaste react",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC"
+}
